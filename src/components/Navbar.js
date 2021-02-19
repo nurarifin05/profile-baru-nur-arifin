@@ -25,11 +25,11 @@ const Navbar = () => {
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link" href="#">About me</a>
+                            <a className="nav-link" href="https://www.linkedin.com/in/muhamadnurarifin/">About me</a>
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Services</a>
+                            <a className="nav-link" href="https://github.com/nurarifin05">Services</a>
                         </li>
 
                         <li className="nav-item">
@@ -37,11 +37,11 @@ const Navbar = () => {
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link" href="#">portofolio</a>
+                            <a className="nav-link" href="https://github.com/nurarifin05">portofolio</a>
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link" href="#">contact</a>
+                            <a className="nav-link" href="https://wa.me/6281336524010">contact</a>
                         </li>
 
 
