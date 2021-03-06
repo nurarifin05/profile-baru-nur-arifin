@@ -25,7 +25,7 @@ const Navbar = () => {
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link" href="https://www.linkedin.com/in/muhamadnurarifin/">About me</a>
+                            <a className="nav-link" href="https://www.linkedin.com/muhamadnurarifin/">About me</a>
                         </li>
 
                         <li className="nav-item">
