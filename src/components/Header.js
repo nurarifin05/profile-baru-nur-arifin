@@ -9,7 +9,7 @@ const Header = () => {
                 <h1>Under construction</h1>
                 <Typed
                 className="typed-text"
-                strings={["Web Development", "IoT Development", "RPA Development", "Penulisan Skripsi", "Penulisan Jurnal"]}
+                strings={["Web Development", "IoT Development", "RPA Development", "Penulisan Jurnal"]}
                 typeSpeed={40}
                 backSpeed={60}
                 loop

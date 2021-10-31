@@ -41,7 +41,7 @@ const Navbar = () => {
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link" href="https://wa.me/6281336524010">contact</a>
+                            <a className="nav-link" href="https://t.me/muhamadnurarifin">contact</a>
                         </li>
 
 
